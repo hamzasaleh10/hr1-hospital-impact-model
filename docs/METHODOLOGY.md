@@ -43,7 +43,7 @@ This summarizes the Methodology and Scenario_Control sheets of the Excel model. 
 
 - As post-2027 cost reports arrive, compare margin and uncompensated-care changes in high- vs. low-exposure hospitals (difference-in-differences, controlling for state, size and ownership) to move from projected to measured impact. Monthly enrollment (Trend sheet) is the earliest leading indicator.
 
-© 2026 Hamza Saleh, MPH. All rights reserved. No reproduction, distribution or derivative works without written permission. Public source data (CMS, KFF, CBO, MACPAC, HRSA) remain the property of their publishers.
+© 2026 Hamza Saleh, MPH. Licensed under CC BY 4.0 (see [LICENSE](../LICENSE)). Public source data (CMS, KFF, CBO, MACPAC, HRSA) remain the property of their publishers.
 
 ## Scenario assumptions
 
@@ -63,4 +63,4 @@ This summarizes the Methodology and Scenario_Control sheets of the Excel model. 
 | Net margin loss per $1 of cost-sharing reduction | 0.3 | 0.5 | 0.7 |
 | Hospital share of MCO-tax-funded spending | 0.15 | 0.3 | 0.45 |
 
-© 2026 Hamza Saleh, MPH. All rights reserved.
+© 2026 Hamza Saleh, MPH. CC BY 4.0.

@@ -2,7 +2,7 @@
 
 A hospital-by-hospital scenario model of how the Medicaid provisions of H.R.1 (the One Big Beautiful Bill Act, P.L. 119-21) could affect U.S. hospital finances from 2026 to 2034.
 
-**Author:** Hamza Saleh, MPH · **Version:** 3 (November 2, 2026) · © 2026 Hamza Saleh, MPH. All rights reserved ([COPYRIGHT.md](COPYRIGHT.md)).
+**Author:** Hamza Saleh, MPH · **Version:** 3 (November 2, 2026) · © 2026 Hamza Saleh, MPH. Text and findings licensed [CC BY 4.0](LICENSE); model and code all rights reserved ([COPYRIGHT.md](COPYRIGHT.md)).
 
 - **Executive brief:** [read online](https://claude.ai/artifact/EYNB1wPBo6jPPWH96G96Le) · [PDF](brief/HR1_Hospital_Impact_Executive_Brief_v3.pdf)
 - **Interactive dashboard:** [H.R.1 Hospital Impact Monitor](https://claude.ai/artifact/L4p8BVUD2Sk9D6yDSrjEZM)
@@ -64,4 +64,8 @@ CMS Hospital Provider Cost Reports and HCRIS raw files; CMS Medicaid and CHIP en
 
 ## Access
 
-The Excel model, Power BI kit and reference code are kept in a private repository. To request access, a walkthrough of the model, or permission to use any part of this work, contact Hamza Saleh through GitHub or LinkedIn.
+The Excel model, Power BI kit and reference code are kept in a private repository. To request access or a walkthrough of the model, contact Hamza Saleh on [LinkedIn](https://www.linkedin.com/in/hamza-saleh1).
+
+## Licence
+
+The written findings, executive brief, leave-behind, charts and methodology summary in this repository are licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE): share and adapt them freely with credit to *Saleh, H. (2026). H.R.1 Hospital Impact Model. https://github.com/hamzasaleh10/hr1-hospital-impact-model*. The Excel model, Power BI kit and code are not covered and remain all rights reserved. Source data remain under their publishers' terms.

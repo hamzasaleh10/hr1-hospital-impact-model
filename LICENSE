@@ -1,12 +1,23 @@
-# Copyright
+Text and analysis: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-© 2026 Hamza Saleh, MPH. All rights reserved.
+Copyright (c) 2026 Hamza Saleh
 
-No license is granted. You may view this repository on GitHub, but you may not reproduce,
-distribute, or create derivative works from any part of it (the Excel model, executive brief,
-Power BI kit, Python code, or documentation) without written permission from the author.
+The written content, findings, projections, charts, executive brief, leave-behind
+and methodology summary of the H.R.1 Hospital Impact Model
+(https://github.com/hamzasaleh10/hr1-hospital-impact-model) are licensed under the
+Creative Commons Attribution 4.0 International licence.
 
-To request permission or a walkthrough of the model, contact Hamza Saleh through GitHub or LinkedIn.
+You are free to share and adapt this material for any purpose, provided you give
+appropriate credit, link to the licence and indicate if changes were made.
 
-Public source data used by the model (CMS, KFF, CBO, MACPAC, HRSA) remain the property of their publishers
-and are subject to their own terms.
+Suggested credit:
+  Saleh, H. (2026). H.R.1 Hospital Impact Model.
+  https://github.com/hamzasaleh10/hr1-hospital-impact-model
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+This licence does not cover:
+- The Excel model, Power BI kit, analysis code and system-level snapshots, which are
+  held in a private repository and remain all rights reserved.
+- The underlying source data (CMS, KFF, CBO, MACPAC, HRSA and others), which remain
+  under the terms of their providers.
