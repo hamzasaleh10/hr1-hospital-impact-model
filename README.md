@@ -10,6 +10,17 @@ A hospital-by-hospital scenario model of how the Medicaid provisions of H.R.1 (t
 
 ![Annual H.R.1 impact on U.S. hospitals by channel, Base scenario, 2026–2034](images/impact_by_channel.png)
 
+## New in November 2026
+
+- **[One-page leave-behind](deliverables/HR1_Leave_Behind.pdf)** summarizing the findings.
+- **Mitigation scenarios.** A hospital-controllable package (2% cost cut, keeping a quarter of at-risk Medicaid patients covered, +0.5% net collections) closes about 71% of the 2032 gap and keeps about 280 hospitals out of the red. Even with a partial state replacement of capped SDP dollars, about 230 hospitals stay in the red: the top Medicaid-share quarter would need an 8.5% cost cut to absorb the hit.
+- **Does the risk score work?** A 2022 version of the vulnerability index, back-tested on what happened next: hospitals in its top fifth were 5 times as likely to convert or stop filing as the bottom fifth, and 15 of 18 later Rural Emergency Hospital conversions came from its top two fifths. Margin and liquidity carry the signal; Medicaid share alone did not predict past exits, because supplemental payments, the money H.R.1 cuts, were keeping those hospitals afloat.
+- **Actuals tracker.** Adult Medicaid enrollment in expansion states is already down 7.8% since June 2025, before work requirements start nationally. The tracker compares each new month of CMS data with the model's path.
+
+![Adult Medicaid enrollment in expansion states, actual vs. model path](images/tracker_chart.png)
+
+System-level snapshots (Ochsner, Baptist Health Kentucky, Banner Arizona, Providence Oregon), the analysis code and a presentation deck are in the private repository and available on request.
+
 ## Key findings (Base scenario, 2032)
 
 | Measure | Result |
