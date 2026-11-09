@@ -64,8 +64,17 @@ CMS Hospital Provider Cost Reports and HCRIS raw files; CMS Medicaid and CHIP en
 
 ## Access
 
-The Excel model, Power BI kit and reference code are kept in a private repository. To request access or a walkthrough of the model, contact Hamza Saleh on [LinkedIn](https://www.linkedin.com/in/hamza-saleh1).
+The Excel model, Power BI kit and reference code are kept in a private repository. To request access or a walkthrough of the model, contact Hamza Saleh on [LinkedIn](https://www.linkedin.com/in/hamza-saleh1/).
 
 ## Licence
 
 The written findings, executive brief, leave-behind, charts and methodology summary in this repository are licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE): share and adapt them freely with credit to *Saleh, H. (2026). H.R.1 Hospital Impact Model. https://github.com/hamzasaleh10/hr1-hospital-impact-model*. The Excel model, Power BI kit and code are not covered and remain all rights reserved. Source data remain under their publishers' terms.
+
+
+---
+
+## Contact
+
+**Hamza Saleh, MPH, HCM, PMP** · [Connect on LinkedIn](https://www.linkedin.com/in/hamza-saleh1/)
+
+Questions, a walkthrough of the model, or an analysis for your hospital or system: message me on [LinkedIn](https://www.linkedin.com/in/hamza-saleh1/).
